@@ -33,6 +33,15 @@ module.exports = {
       animation: {
         'accordion-down': 'accordion-down 0.2s ease-out',
         'accordion-up': 'accordion-up 0.2s ease-out'
+      },
+      colors:{
+        brand:{
+          DEFAULT: '#121712',
+          100:'#A6B2A3',
+          200:'#424F40',
+          300:'#1F241F',
+          400:'#121712',
+        }
       }
     }
   },
