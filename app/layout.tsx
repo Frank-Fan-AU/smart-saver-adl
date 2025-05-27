@@ -22,7 +22,7 @@ export const metadata: Metadata = {
 export default async function RootLayout({ children }: PropsWithChildren) {
   return (
     <html lang="en">
-      <body className=" bg-brand-400 w-full">
+      <body className=" bg-brand-500 w-full">
         <Navbar />
         <main
           id="skip"
