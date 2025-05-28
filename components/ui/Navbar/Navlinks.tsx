@@ -23,7 +23,7 @@ export default function Navlinks({ user }: NavlinksProps) {
           <span className="text-2xl font-bold">SmartSaverADL</span>
         </Link>
         <nav className="ml-12 space-x-12 lg:block">
-          <Link href="/" className={s.link}>
+          <Link href="/productlist" className={s.link}>
             Product List
           </Link>
           <Link href="/" className={s.link}>
