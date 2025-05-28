@@ -26,7 +26,7 @@ export default function Navlinks({ user }: NavlinksProps) {
           <Link href="/productlist" className={s.link}>
             Product List
           </Link>
-          <Link href="/" className={s.link}>
+          <Link href="/shoppinglist" className={s.link}>
             Shopping List
           </Link>
           <Link href="/" className={s.link}>
